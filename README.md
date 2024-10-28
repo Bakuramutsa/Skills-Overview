@@ -1,7 +1,6 @@
-## Sandrine Bakuramutsa
+### Hi there!
 
-#### Hi there!
-Thanks for stopping by! I’m Sandrine Divine Bakuramutsa, currently pursuing a STEM Master’s in Business Analytics at Emory University’s Goizueta Business School. I bring 3 years of experience in business and data analytics, with strong skills in team leadership and analytical problem-solving. I’m passionate about applying data science in business settings, and I’m actively seeking data science and analytics roles.
+Thanks for stopping by! I’m Sandrine Divine Bakuramutsa, currently pursuing a STEM Master’s in Business Analytics at Emory University’s Goizueta Business School. I bring 3 years of experience in business and data analytics, with strong skills in team leadership and analytical problem-solving. I’m passionate about applying data science in business settings, and I’m actively seeking data science and analytics roles. Below is a detailed overview of my background, skills and work experience:
 
 #### Technical Skills
 - Data Mining Techniques: Decision Trees, Logistic Regression, k-Nearest Neighbors, Neural Networks, Linear Regression, kNN Regression, K-Means Clustering. 
