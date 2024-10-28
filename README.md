@@ -9,9 +9,9 @@ Thanks for stopping by! I’m Sandrine Divine Bakuramutsa, currently pursuing a 
 - Programming Languages: Python, R, SQL, Google Apps Script.
 
 ### Education
-- M.S, Business Analytices | Emory University Goizueta Business School (May, 2025)
-- Post_Graduate Certificate, Data Science and Business Analytics | The University of Texas At Austin (July, 2022)
-- B.S, Food Science | Michigan State University (May, 2021)
+- M.S, Business Analytics - Emory University Goizueta Business School (May, 2025)
+- Post_Graduate Certificate, Data Science and Business Analytics - The University of Texas At Austin (July, 2022)
+- B.S, Food Science - Michigan State University (May, 2021)
 
 ### Work Experience
 Data Analyst @ HelloFresh (January, 2023 – June, 2024)
