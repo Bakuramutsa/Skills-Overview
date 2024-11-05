@@ -1,4 +1,4 @@
-### Hi there!Thanks for stopping by! 
+### Hi there! Thanks for stopping by! 
 
 My name is  Sandrine Divine Bakuramutsa, and I am currently pursuing a STEM Master’s in Business Analytics at Emory University’s Goizueta Business School. I bring 3 years of experience in business and data analytics, with strong skills in team leadership and analytical problem-solving. I’m passionate about applying data science in business settings, and I’m actively seeking data science and analytics roles.Please take a minute to read a  detailed overview of my background, skills and work experience below:
 
