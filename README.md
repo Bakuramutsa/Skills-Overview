@@ -31,14 +31,17 @@ Area Manager, Rotational Program @ HelloFresh (June 2023 - August 2023)
  
 ### Projects
 Amazon Customer Review Sentiment Analysis | Personal Project (November 2024 – December 2024)
+
 •	Built a sentiment classification model using NLTK and Hugging Face transformers to analyze and classify Amazon customer reviews.
 •	Achieved 88% prediction accuracy, providing insights to enhance customer satisfaction and address negative feedback proactively.
 
 Flight delays and cancellations prediction| Class project (September 2024 –September 2024)
+
 •	Built predictive models with k-NN, Logistic Regression, and Decision Trees, achieving 86% F1 score through feature tuning and optimization.
 •	 Enhanced the model's reliability, demonstrating potential applications for improving operational efficiency and customer satisfaction.
 
 TOP Assessment Risk Prediction | HelloFresh (March 2024 – June 2024)
+
 •	Built a classification model using Random Forest and Python to predict employees at risk of failing the Technical Operations Process (TOP) assessment, leveraging employee demographic and performance data.
 •	Enabled targeted training interventions for high-risk employees, resulting in a 20% improvement in assessment pass rates and 30% reduction in retraining hours, optimizing resource allocation and enhancing overall workforce readiness.
 
